@@ -1,0 +1,6 @@
+export const ACCOUNT_LOGIN = 'account/login'
+export const ACCOUNT_LOGIN_SUCCESS = 'account/login/success'
+export const ACCOUNT_LOGIN_FAILURE = 'account/login/failure'
+export const ACCOUNT_LOGOUT = 'account/logout'
+export const CHANGE_INITIAL_PASSWORD = 'account/change_password'
+export const MAIL_LOGIN = 'mail/login'

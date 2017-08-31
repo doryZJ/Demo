@@ -1,0 +1,22 @@
+html,body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 10px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+input,
+textarea,
+button {
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
